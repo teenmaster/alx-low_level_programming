@@ -1,1 +1,1 @@
-TThis directory contains low level programming language i.e c
+This directory is all about low level programming
