@@ -2,9 +2,10 @@
 /**
  * main - prints the size of each data type
  *
- * Description: A C program that prints the size of various types on the computer it is compiled and run on.
+ * Description: A C program that prints the size of various types 
+ * on the computer it is compiled and run on.
  *
- * Return: success is shown by a 0
+ * Return: Always a 0
  */
 int main(void)
 {
