@@ -1,5 +1,6 @@
 #include "main.h"
 
+void print_line(int n);
 /**
  * main - test code
  * Return: 0 for success
