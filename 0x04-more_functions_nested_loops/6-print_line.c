@@ -3,8 +3,9 @@
 /**
  * print_line - draws a straight line in the terminal
  * 
- * Return: void
+ * Return: 0
  */
+
 void print_line(int n)
 {
 	int n;
