@@ -1,19 +1,10 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - checks my code
- * Return: 0
+ * print_numbers - print 0 - 9
  *
- * print_numbers - prints 0 to 9 followed by a new line
- *
- * Return: value 0
+ * Return: void
  */
-int main(void)
-{
-	print_numbers();
-	return (0);
-}
 void print_numbers(void)
 {
 	int i;
